@@ -745,12 +745,12 @@ body {
 }
 
 .sny-icon-content h4 {
-  text-align: right;
+  text-align: left;
   margin-bottom: 6px;
 }
 
 .sny-icon-content p {
-  text-align: right;
+  text-align: left;
   margin-bottom: 0px;
 }
 
