@@ -741,14 +741,16 @@ body {
 }
 
 .sny-icon-content {
-  text-align: right;
+  text-align: center;
 }
 
 .sny-icon-content h4 {
+  text-align: right;
   margin-bottom: 6px;
 }
 
 .sny-icon-content p {
+  text-align: right;
   margin-bottom: 0px;
 }
 
